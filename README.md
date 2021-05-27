@@ -1,1 +1,3 @@
-# utilsUtility function written by Raymundo Machado de Azevedo Neto
+# utils
+
+Utility function written by Raymundo Machado de Azevedo Neto
